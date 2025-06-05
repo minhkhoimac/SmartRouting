@@ -1,0 +1,3 @@
+Order b766223c-dcce-4041-8d35-ed1fd38c4840 routed using REGION strategy
+Item SKU: SKU5002, quantity: 1, result: Processed generic item: SKU5002 at East Coast Tech Warehouse
+Item SKU: SKU4005, quantity: 2, result: Processed generic item: SKU4005 at East Coast Tech Warehouse

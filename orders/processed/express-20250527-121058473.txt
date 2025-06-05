@@ -1,0 +1,3 @@
+Order eb56ca51-e20b-4c86-94a6-148e8280b9ce routed using CATEGORY strategy
+Category: technology
+Item SKU: SKU1005, quantity: 4, result: Processed generic item: SKU1005 at East Coast Tech Warehouse

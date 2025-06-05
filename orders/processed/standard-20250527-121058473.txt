@@ -1,0 +1,3 @@
+Order 979468c7-1292-4d57-b729-70809bc32df3 routed using DEFAULT strategy
+Item SKU: SKU2002, quantity: 2, result: Checked size, folded, and packaged clothing: SKU2002 at Central Apparel Warehouse
+Item SKU: SKU4001, quantity: 1, result: Checked licensing and prepared entertainment product: SKU4001 at South Entertainment Warehouse

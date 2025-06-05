@@ -1,0 +1,4 @@
+Order dd0703b4-826e-4e7e-855b-1491156f519b routed using DEFAULT strategy
+Item SKU: SKU3002, quantity: 5, result: Validated ISBN and packaged book: SKU3002 at West Coast Books Warehouse
+Item SKU: SKU1003, quantity: 1, result: Processed generic item: SKU1003 at East Coast Tech Warehouse
+Item SKU: SKU2001, quantity: 2, result: Checked size, folded, and packaged clothing: SKU2001 at Central Apparel Warehouse
