@@ -1,5 +1,3 @@
-# OO Architecture Final Project
-
 ## E-Commerce Warehouse Routing System
 
 When consumers order a variety of products online, often times the items are not all in the same place when ordered. E-commerce businesses often maintain multiple geographically distributed warehouses to reduce shipping time and costs as well as satisfy customer needs. This project implements a mock-system that simulated the routing of orders to warehouses based on the items ordered and their locations.
